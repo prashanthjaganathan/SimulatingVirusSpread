@@ -91,12 +91,12 @@ python src/Run.py
 Upon running the above command, the visualization will be launched on the browser. Click on 'Start' to begin the simulation.
 
 The simulation would look like below: 
-![Screenshot 2024-12-04 at 12 16 13 PM](https://github.khoury.northeastern.edu/samp3209/CS5100Final/assets/17761/3f6b5589-ff3e-46f7-809b-cd91e7e5933d)
+![Screenshot 2025-01-22 at 11 48 44 AM](https://github.com/user-attachments/assets/5f92cd6d-97b9-4006-bc27-c7918f6003ab)
+
 
 
 Productivity and Daily Infections Chart
-![Screenshot 2024-12-04 at 12 22 52 PM](https://github.khoury.northeastern.edu/samp3209/CS5100Final/assets/17761/393fc00c-a137-4de4-a6d0-2f37359b38ea)
-
+![Screenshot 2025-01-22 at 11 48 55 AM](https://github.com/user-attachments/assets/73a0806b-b0db-4609-a009-3bc2e2bbfc2f)
 
 
 
