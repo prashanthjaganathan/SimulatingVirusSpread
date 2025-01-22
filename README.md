@@ -98,6 +98,12 @@ The simulation would look like below:
 Productivity and Daily Infections Chart
 ![Screenshot 2025-01-22 at 11 48 55 AM](https://github.com/user-attachments/assets/73a0806b-b0db-4609-a009-3bc2e2bbfc2f)
 
+## Contributors
+1. Samuel Parsons
+2. Kelly Lee
+3. Zachary Coates
+4. Prashanth Jaganathan
+
 
 
 
